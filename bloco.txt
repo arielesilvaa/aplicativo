@@ -4,3 +4,6 @@ baixando as coisas importante
 ---  Aula 03 --
 
 estrutura das paginas e como tudo funciona 
+
+----- aula 04 ---- 
+importacçoes e variaveis 
