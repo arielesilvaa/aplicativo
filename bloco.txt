@@ -12,3 +12,7 @@ sempre que quiser utilizar js não esqueci de colocar {}
 ----- aula 05 -----
 
 como criar componentes 
+
+----- aula 06 -----
+
+como enviar dados
