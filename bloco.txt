@@ -8,3 +8,7 @@ estrutura das paginas e como tudo funciona
 ----- aula 04 ---- 
 importacçoes e variaveis 
 sempre que quiser utilizar js não esqueci de colocar {}
+
+----- aula 05 -----
+
+como criar componentes 
