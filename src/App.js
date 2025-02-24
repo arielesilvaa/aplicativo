@@ -1,5 +1,6 @@
 import React from 'react'; 
-import Eu from './components/img/ari.jpg'; 
+import Corpo from './components/Corpo';
+import Header from './components/Header';
 
 export default function App(){
 
@@ -7,8 +8,8 @@ export default function App(){
 
   return (
     <>
-
-      
+      <Header />
+      <Corpo />
     </>
   );
 }
