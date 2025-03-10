@@ -1,13 +1,12 @@
 import React from 'react'; 
-import Corpo from './components/Corpo';
-import Header from './components/Header';
 
 export default function App(){
 
   return (
     <>
-      <Header />
-      <Corpo />
+      <h1> CBF Curso</h1>
+      <h2>Curso de React</h2>
+      <p> vamos aprender em </p>
   
     </>
   );

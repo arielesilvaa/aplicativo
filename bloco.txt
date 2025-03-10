@@ -16,3 +16,9 @@ como criar componentes
 ----- aula 06 -----
 
 como enviar dados
+
+--- aula 07 ---
+ usando outro metodos de enviar dados 
+
+--- aula 08 ---
+ estilo com css
